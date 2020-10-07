@@ -158,3 +158,7 @@
 - Place: Kerala, India
 - Bio: Student
 - GitHub: [vpsines](https://github.com/vpsines)
+ #### Name: [Shreya Gautam](https://github.com/ShreyaGautamm)
+- Place: Patna, India
+- Bio: Student
+- GitHub: [ShreyaGautamm](https://github.com/ShreyaGautamm)
